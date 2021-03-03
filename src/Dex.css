@@ -1,0 +1,13 @@
+.Dex-cards {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.Dex-winner {
+  color: #4caf50;
+}
+
+.Dex-loser {
+  color: #e91e63;
+}
